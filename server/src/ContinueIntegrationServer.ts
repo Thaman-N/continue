@@ -5,10 +5,10 @@ import { WebSocketServer } from 'ws';
 import path from 'path';
 
 // Continue.dev imports
-import { Core } from '../core/core';
-import { ConfigHandler } from '../core/config/ConfigHandler';
-import { CodebaseIndexer } from '../core/indexing/CodebaseIndexer';
-import { IMessenger } from '../core/protocol';
+import { Core } from '../continue/core/core';
+import { ConfigHandler } from '../continue/core/config/ConfigHandler';
+import { CodebaseIndexer } from '../continue/core/indexing/CodebaseIndexer';
+import { IMessenger } from '../continue/core/protocol';
 import { IDE, ChatMessage, FromCoreProtocol, ToCoreProtocol } from '../core-types';
 
 // Our custom adapters

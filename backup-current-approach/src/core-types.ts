@@ -169,4 +169,4 @@ export interface BrowserSerializedContinueConfig {
 }
 
 // Re-export the default config we need
-export { defaultConfig } from '../core/config/default';
+export { defaultConfig } from '../continue/core/config/default';
