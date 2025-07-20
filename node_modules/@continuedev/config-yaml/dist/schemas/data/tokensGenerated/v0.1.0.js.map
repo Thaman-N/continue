@@ -1,0 +1,1 @@
+{"version":3,"file":"v0.1.0.js","sourceRoot":"","sources":["../../../../src/schemas/data/tokensGenerated/v0.1.0.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,6BAA6B,EAAE,MAAM,YAAY,CAAC;AAE3D,MAAM,CAAC,MAAM,gCAAgC,GAC3C,6BAA6B,CAAC,IAAI,CAAC;IACjC,KAAK,EAAE,IAAI;IACX,QAAQ,EAAE,IAAI;IACd,YAAY,EAAE,IAAI;IAClB,eAAe,EAAE,IAAI;CACtB,CAAC,CAAC;AAEL,MAAM,CAAC,MAAM,uCAAuC,GAClD,gCAAgC,CAAC"}
